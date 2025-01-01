@@ -1,0 +1,26 @@
+{
+  "name": "jhtrauntvein-bus",
+  "version": "1.0.0",
+  "description": "Components and Examples for Managing a Bus",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npx jest"
+  },
+  "keywords": [
+    "emulated",
+    "computer",
+    "bus"
+  ],
+  "author": "Jon Trauntvein",
+  "license": "MIT",
+  "dependencies": {
+    "jhtrauntvein-basic-logic-gates": "^1.1.1",
+    "jhtrauntvein-latches": "^1.0.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
